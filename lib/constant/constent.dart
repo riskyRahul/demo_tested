@@ -62,9 +62,9 @@ final List<Story> stories =  [
  const Story(
     url: story_1,
     media: MediaType.image,
-    duration: Duration(seconds: 3),
+    duration: Duration(seconds: 7),
     user: User(
-      name: 'John Doe',
+      name: 'Rahul Thakur',
       profileImageUrl: 'https://wallpapercave.com/wp/AYWg3iu.jpg',
     ),
   ),
@@ -72,7 +72,7 @@ final List<Story> stories =  [
     url: story_2,
     media: MediaType.image,
     user: User(
-      name: 'John Doe',
+      name: 'Rahul Thakur',
       profileImageUrl: 'https://wallpapercave.com/wp/AYWg3iu.jpg',
     ),
     duration: Duration(seconds: 7),
